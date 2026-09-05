@@ -1,1 +1,2 @@
 print("badgepair")
+print("pair")
